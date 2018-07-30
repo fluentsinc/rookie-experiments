@@ -6,10 +6,11 @@
 
 1. ### In this pilot, let's just get a good look of some of the useful features that you would be using. 
 
-2. ### Open up Visual Code. The first time you open up you should get a window like the one you see below. Hover your mouse pointer arrow over the sidebar to see happens when you click on those icons.  
+2. ### Open up Visual Code. The first time you open up you should get a window like the one you see below. Hover your mouse pointer arrow over the activity bar to see happens when you click on those icons.  
 
 ![](../images/pilot-01/startup-window.gif)
 
 3. ### Press `` ctrl + ` `` to open up the integrated terminal. Or you can click on "view" from the navigation bar and "integrated terminal". 
 
 ![](../images/pilot-01/integrated-terminal.gif)
+
