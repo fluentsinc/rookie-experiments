@@ -13,4 +13,11 @@
 
 ![](../images/pilot-01/contribution-graph.gif)
 
-2. ### In this pilot, we'll just _**take a look at**_ some of the repositories stored on Github by different organizations. 
+2. ### We'll just _**take a look at**_ some of the repositories stored on Github by different organizations. We'll start with Facebook's React. Try this link here: https://github.com/facebook/react. You can see the number of commits, branches, contributors and _**so on and so forth**_. You can also click on the colored graph to see the language color stats bar which shows you the percentage of various programming languages used in that particular repo. 
+
+![](../images/pilot-01/react-repo.gif)
+
+3. ### Next, try this link here: https://github.com/nodejs/node to see Nodejs Organisation's node runtime repository. 
+
+4. ### There are many other large software projects that are not tied up to any organisations like Mike Bostock's D3: https://github.com/d3/d3. 
+
