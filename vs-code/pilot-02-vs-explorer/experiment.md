@@ -19,7 +19,7 @@
 
 ![](../images/pilot-02/right-click-pane.gif)
 
-4. ### Make sure you click on the visual code explorer pane before you create another folder or you might be creating child folders within the same folder. 
+5. ### Make sure you click on the visual code explorer pane before you create another folder or you might be creating child folders within the same folder. 
 
 ![](../images/pilot-02/no-child-folder.gif)
 
