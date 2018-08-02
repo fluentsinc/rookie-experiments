@@ -18,7 +18,7 @@
 **View from Windows File Explorer to Visual Code Explorer**
 ![](../images/pilot-02/filex-to-vsx.gif)
 
-4. ### You can also create files and folders by clicking on the visual code explorer pane or by double-clicking on the folders. 
+4. ### You can also create files and folders by right-clicking on the visual code explorer pane or by right-clicking on the folders. 
 
 ![](../images/pilot-02/right-click-pane.gif)
 
