@@ -6,7 +6,7 @@
 
 1. ### Create a folder named **"scripts"** inside your master project folder. Open "scripts" folder in visual code as shown in `vs-code/pilot-02`. 
 
-2. ### Create a new file in **scripts** folder and name it "script.sh". What you just did was, you created a shell script file so that you could write your script. Shell script files are kinda like text files but instead of writing words and phrases, we write programming commands. Programming commands tell the computer what to do in the order that they appear in the shell script file. So if you wrote, "drive the car. put the key in. open the car door". The computer would start to do things in the order that the command appears in the shell script. Of course, the command that you wrote would fail in real life but the computer always does what you tell it to do. 
+2. ### Create a new file in **scripts** folder and name it "script.sh". What you just did was, you created a shell script file so that you could write your script. Shell script files are kinda like text files but instead of writing words and phrases, we write programming commands. Programming commands tell the computer what to do in the order that they appear in the shell script file. So if you wrote, "drive the car. put the key in. open the car door". The computer would start to do things in the order that the command appears in the shell script. Of course, the example car driving command that you just wrote would fail in real life but the point is, the computer always does what you tell it to do. 
 
 3. ### Inside the "script.sh", write this command: `date` and save what you wrote.
 
