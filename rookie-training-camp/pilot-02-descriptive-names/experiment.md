@@ -1,6 +1,6 @@
 # **Giving Descriptive Names**
 
-## When you work on a project, there might come a time where you might need to name your folders, files etc. When doing so, there are a couple things you need to be aware of.
+## When you work on a project, there might come a time when you might want to name your folders, files etc. When doing so, there are a couple things you need to be aware of.
 
 # **Experiment**
 

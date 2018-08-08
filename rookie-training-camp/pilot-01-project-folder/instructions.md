@@ -1,6 +1,6 @@
-# **Creating Master Project Folder**
+# **Creating a Master Project Folder**
 
-## As a rookie, it might not occur to you that you would create and contribute to a lot of different software projects. This demands a solid organizational skill that can _**make your life easier**_ as you focus on perfecting your software skill.
+## As a rookie, it might not occur to you that you would create and/or contribute to a lot of different software projects. This demands a solid organizational skill that can _**make your life easier**_ as you focus on perfecting your software skill.
 
 
 # **Instructions**
