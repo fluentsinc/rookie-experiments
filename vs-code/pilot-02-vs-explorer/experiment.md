@@ -12,10 +12,10 @@
 
 3. ### If you create a folder in visual code explorer, you can see the same folder in file explorer. Similarly, if you create a folder in windows file explorer, you can see that same folder in visual code explorer as well.  Both visual code explorer and windows file explorer are similar softwares that do the same thing which is, they enable you to view and create files and folders in the same space (either hard-drive or external hard-drive). It's just that visual code provides an in-built file explorer so that you don't have to leave visual code every time you want to use windows file explorer. 
 
-**View from Visual Code Explorer to Windows File Explorer**
+### **View from Visual Code Explorer to Windows File Explorer**
 ![](../images/pilot-02/vsx-to-filex.gif)
 
-**View from Windows File Explorer to Visual Code Explorer**
+### **View from Windows File Explorer to Visual Code Explorer**
 ![](../images/pilot-02/filex-to-vsx.gif)
 
 4. ### You can also create files and folders by right-clicking on the visual code explorer pane or by right-clicking on the folders. 
