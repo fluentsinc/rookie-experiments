@@ -1,0 +1,15 @@
+# **Package Manager**
+
+## When you install a new software on your computer, you would download a file that ends with `.exe` in Windows and `.app` in Mac and run the file to install the software. Now the whole installation process you usually go through shows an installation wizard that tells you what software you're installing and where you're installing the software on your computer. And then, you would click "next" or "install" to install the software. There are other ways to install a software. You could install software using a package manager. As the name suggests, package manager manages packages(short for software packages, that is, .exe or .app files). 
+
+# **Experiment**
+
+1. ### Using a package manager, you would install software by typing commands. There's nothing guiding you to click "next" or "install" like you are usually _**used to**_, you would type a command and the package manager installs the software for you. The usual pattern is: `manager install software-name`. For instance, the package manager we're going to use for windows is called `choco`. So to install the Nginx web server using `choco`, you would execute this command on your **integrated terminal**: `choco install nginx`. 
+
+2. ### Before you could use choco to install any software, you need to install choco first as it's not a built-in software like paint or calculator. Press win key and type "cmd". The command prompt icon will appear, right-click and select "run as administrator". Click "yes" when user account control wizard asks you for permission. Now you should see the command prompt window and the path set to: `C:\WINDOWS\system32>`. Copy paste the below command and press enter to install choco on your computer, it takes a while so have some patience: 
+
+- @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+
+3. ### Once the installation is complete, verify that choco has been installed by typing this command: `choco -v` which outputs the version of choco installed on your computer. 
+
+4. ### Why use package managers when you could install softwares the old graphical way? You might have installed softwares like firefox or chrome using a graphical installer. These are softwares that are used by a lot of people that don't know anything about software development. The graphical installers are made for such people with limited or no-existent software development skills. For most softwares used by software developers, there's no need to create a graphical installer to install the software. Package managers are used instead to install such softwares that don't have a graphical installer. Let's install Nginx web server using choco to really _**get the hang of it**_. Type this command to install Nginx using choco: `choco install nginx`
