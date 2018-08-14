@@ -14,7 +14,7 @@
 
 ![](../images/pilot-03/install-extensions.gif)
 
-4. ### Before you start with experiment #4, make sure you are comfortable with pilot-01 and pilot-02 of Git in rookie-experiments. Open the cloned Git repo folder in visual code as in **vs-code pilot-02**. Now we have everything we need to preview the markdown files(.md files) from within visual code, open up the pilot folder of your choice and right-click on experiment.md and select the option "open preview to preview the markdown files. This should be the way you need to view markdown files _**going forward**_ because it offers a lot of benefits over viewing from Github. 
+4. ### Before you start with experiment #4, make sure you are comfortable with pilot-01 and pilot-02 of Git in rookie-experiments. Open the cloned Git repo folder in visual code as in **vs-code pilot-02**. Now we have everything we need to preview the markdown files(.md files) from within visual code, open up the pilot folder of your choice and right-click on experiment.md and select the option "open preview" to preview the markdown files. This should be the way you need to view markdown files _**going forward**_ because it offers a lot of benefits over viewing from Github. 
 
 ![](../images/pilot-03/preview-markdown.gif)
 
