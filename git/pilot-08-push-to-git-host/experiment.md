@@ -22,7 +22,7 @@
 
 4. ### Experiment-#3 shows the workflow you need to follow if you're trying to upload the repository for the first time. This experiment will show how you can upload the changes you've made after the first time. As you edit the repository in your computer by adding a new file or removing an old line, your repository on Github becomes outdated. You need to sync these repositories so as to keep them up to date. The workflow goes like this: 
 
-- ### Create commits for your activity in your computer. Whether you added a line or deleted a file, it doesn't matter. If you had made edits, create a commit so as to record what happened. Once you've commit to the repository on your computer, you can upload those commits to Github. 
+- ### Create commits for your activity in your computer. Whether you added a line or deleted a file, it doesn't matter. If you had made edits, create a commit so as to record what happened. Once you commit to the repository on your computer, you can upload those commits to Github. 
 
 - ### `git push -u origin master` this command uploads all your edits. Works only if you've committed your edits on your computer. 
 
