@@ -20,6 +20,7 @@
 
 ![](../images/pilot-04/save-workspace.gif)
 
+4. ### Once you've saved the workspace, you should always close the workspace by going to "File" and "Close your workspace". Then, reopen the workspace and start working on your workspace. There is a bug on visual code that doesn't set path to the newly added workspace folder and closing and reopening the workspace seems to fix the issue.  
 
-4. ### To _**get into the habit of**_ saving a workspace and reopening workspace files, let's try to create a workspace for "rookie-experiments" repository. Clone the "rookie-experiments" repository as in `rookie-experiments/git/pilot-02` and save "rookie-experiments" folder to a workspace file. 
+5. ### To _**get into the habit of**_ saving a workspace and reopening workspace files, let's try to create a workspace for "rookie-experiments" repository. Clone the "rookie-experiments" repository as in `rookie-experiments/git/pilot-02` and save "rookie-experiments" folder to a workspace file. 
 
